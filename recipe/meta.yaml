@@ -2,7 +2,6 @@
 {% set name = "pytest_pytorch" %}
 {% set slug = "pytest-pytorch" %}
 {% set version = "0.2.0" %}
-{% set python_version = ">=3.6, <3.10" %}
 {% set home = "https://github.com/Quansight/pytest-pytorch" %}
 
 package:
